@@ -1,0 +1,7 @@
+Concept: A UI War Thunder line up generator that works for tanks, planes, and ships.
+Steps:
+1: Select your game mode
+2: Select BR.
+3: Use base code (abstaction) that calls on the correct line up based on previous two choices.
+4: Create line up
+5: Output line up in a visual way.
